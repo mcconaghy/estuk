@@ -51,5 +51,7 @@ gem 'devise'
 
 gem 'cancan'
 
+gem 'paperclip'
+
 
 
